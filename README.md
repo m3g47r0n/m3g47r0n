@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Will
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning webdevelopment
+Developer in the making.
 
 <!---
 m3g47r0n/m3g47r0n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
